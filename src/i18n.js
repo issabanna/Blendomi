@@ -1,6 +1,6 @@
 export const copy = {
   ar: {
-    brand: "بلندومي",
+    brand: "مهند",
     tagline: "الجملة، بكل بساطة.",
     discover: "اكتشف الموردين",
     products: "كل المنتجات",
@@ -177,7 +177,7 @@ export const copy = {
       "تغيير المدينة لا يحذف سلتك. تحقق من تغطية المورد قبل إكمال الطلب.",
   },
   en: {
-    brand: "blendomi",
+    brand: "Mohannad",
     tagline: "Wholesale, made simple.",
     discover: "Discover suppliers",
     products: "All products",

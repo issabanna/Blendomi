@@ -222,7 +222,7 @@ export function MarketArt({ products, ar = true }) {
       <div className="art-floor" />
       <div className="crate">
         <div className="crate-face">
-          <span>blendomi</span>
+          <span>Mohannad</span>
           <i>GOOD BUSINESS STARTS HERE</i>
         </div>
         <div className="crate-side" />

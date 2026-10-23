@@ -1,4 +1,4 @@
-# Blendomi Wholesale
+# Mohannad Wholesale
 
 Arabic-first wholesale ordering prototype for shops in Jordan. React + Vite, deployable as a static website on Vercel. English and left-to-right layouts are available from the header.
 

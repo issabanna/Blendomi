@@ -107,8 +107,8 @@ function App() {
     document.documentElement.lang = lang;
     document.documentElement.dir = ar ? "rtl" : "ltr";
     document.title = ar
-      ? "بلندومي | الجملة، بكل بساطة"
-      : "Blendomi | Wholesale, made simple";
+      ? "مهند | الجملة، بكل بساطة"
+      : "Mohannad | Wholesale, made simple";
   }, [lang, ar]);
   const money = (n) =>
     new Intl.NumberFormat(ar ? "ar-JO" : "en-JO", {
@@ -596,7 +596,7 @@ function App() {
           <button
             className="brand"
             onClick={() => go("discover")}
-            aria-label="Blendomi home"
+            aria-label="Mohannad home"
           >
             <span className="brand-symbol">
               <Box size={25} strokeWidth={1.7} />
@@ -1205,7 +1205,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <span>© {new Date().getFullYear()} Blendomi</span>
+            <span>© {new Date().getFullYear()} Mohannad</span>
             <span>
               {t.demo} · {t.noPayment}
             </span>
